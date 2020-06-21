@@ -1,6 +1,6 @@
 {
   "name": "ip-rate-limiter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A rate-limiter inspired by Dcard's backend developer intern homework.",
   "main": "./dist/middleware/rateLimiter.js",
   "scripts": {

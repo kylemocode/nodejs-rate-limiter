@@ -1,4 +1,4 @@
-# Node.js request limiter middleware
+# Node.js request limiter middleware with TypeScript
 
 - 限制每小時來自同一個 IP 的請求數量不得超過 1000
 

@@ -3,7 +3,6 @@
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Weekly Downloads](https://img.shields.io/npm/dw/koa-grounded)](https://img.shields.io/npm/dw/ip-rate-limiter)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkylemocode%2Fnodejs-rate-limiter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkylemocode%2Fnodejs-rate-limiter?ref=badge_shield)
 
 ## Requirements
   - [X] 限制每小時來自同一個 IP 的請求數量不得超過 1000
@@ -43,7 +42,3 @@ $ npm install ip-rate-limiter
   - [ ] Flexible arguments
   - [ ] Increase Unit Test Coverage
   - [ ] Support for other Redis Client
-
-## license
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkylemocode%2Fnodejs-rate-limiter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkylemocode%2Fnodejs-rate-limiter?ref=badge_large)
